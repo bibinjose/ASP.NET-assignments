@@ -1,1 +1,1 @@
-Sports store application using ASP.NET Core
+Sports store application using ASP.NEt Core
