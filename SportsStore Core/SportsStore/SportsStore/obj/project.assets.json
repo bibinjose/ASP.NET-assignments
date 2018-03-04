@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\usf\\DIS\\SportsStore Core\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\usf\\DIS\\SportsStore10\\SportsStore\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\usf\\DIS\\SportsStore Core\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectPath": "C:\\usf\\DIS\\SportsStore10\\SportsStore\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\bibin\\.nuget\\packages\\",
-      "outputPath": "C:\\usf\\DIS\\SportsStore Core\\SportsStore\\SportsStore\\obj\\",
+      "outputPath": "C:\\usf\\DIS\\SportsStore10\\SportsStore\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

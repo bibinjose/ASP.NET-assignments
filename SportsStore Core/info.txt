@@ -1,1 +1,1 @@
-Sports store application using ASP.NEt mvc 5
+Sports store application using ASP.NET Core
